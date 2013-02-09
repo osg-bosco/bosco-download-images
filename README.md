@@ -17,3 +17,22 @@ Which will look like: <br />
          alt="Bosco Download"
          style="border-width: 0;"/>
      </a>
+
+
+## Colors
+Currently there are 2 colors, blue is above:
+
+### Orange
+<a href="http://bosco.opensciencegrid.org/download/">
+         <img src="https://raw.github.com/osg-bosco/bosco-download-images/master/images/download-orange.png" 
+         alt="Bosco Download"
+         style="border-width: 0;"/>
+     </a>
+     
+
+     <a href="http://bosco.opensciencegrid.org/download/">
+         <img src="https://raw.github.com/osg-bosco/bosco-download-images/master/images/download-orange.png" 
+         alt="Bosco Download"
+         style="border-width: 0;"/>
+     </a>   
+
