@@ -9,7 +9,7 @@ if (!$.getElementById(cssId))
     link.id   = cssId;
     link.rel  = 'stylesheet';
     link.type = 'text/css';
-    link.href = 'http://website.com/css/stylesheet.css';
+    link.href = 'https://raw.github.com/osg-bosco/bosco-download-images/test-js/css/bosco-download.css';
     link.media = 'all';
     head.appendChild(link);
 }
