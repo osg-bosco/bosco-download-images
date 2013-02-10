@@ -40,9 +40,13 @@ Currently there are 2 colors, blue is above:
 ## Experimental
 You can also use javascript to include buttons.  Be sure to have JQuery loaded before adding these.
 
+<a class="btn-bosco"></a>
+<script src="https://raw.github.com/osg-bosco/bosco-download-images/test-js/js/bosco-download.js"></script>
+
     <a class="btn-bosco"></a>
     <script src="https://raw.github.com/osg-bosco/bosco-download-images/test-js/js/bosco-download.js"></script>
    
+
 
 ## License
 Creator: [Soichi Hayashi](https://github.com/soichih)
