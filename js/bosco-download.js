@@ -14,7 +14,7 @@ if (!$.getElementById(cssId))
     head.appendChild(link);
 }
 
-$(document).ready(function(){
+jQuery(document).ready(function($) {
     
     $(".btn-bosco").each(function() {
     
