@@ -53,10 +53,10 @@ text-decoration: none;
 
 .download-word-blue {
     text-shadow:
-        -1px -1px 0 #ff0088,
-        1px -1px 0 #ff0088,
-        -1px 1px 0 #ff0088,
-        1px 1px 0 #ff0088;
+        -1px -1px 0 #0088cc,
+        1px -1px 0 #0088cc,
+        -1px 1px 0 #0088cc,
+        1px 1px 0 #0088cc;
 }
 
 .download-word-orange {
