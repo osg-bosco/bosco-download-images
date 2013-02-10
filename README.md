@@ -36,6 +36,14 @@ Currently there are 2 colors, blue is above:
          style="border-width: 0;"/>
      </a>   
 
+
+## Experimental
+You can also use javascript to include buttons:
+
+    <a class="btn-bosco"></a>
+    <script src="https://raw.github.com/osg-bosco/bosco-download-images/test-js/js/bosco-download.js"></script>
+   
+
 ## License
 Creator: [Soichi Hayashi](https://github.com/soichih)
 <center>
