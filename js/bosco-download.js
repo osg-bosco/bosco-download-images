@@ -14,4 +14,16 @@ if (!$.getElementById(cssId))
     head.appendChild(link);
 }
 
+$(".btn-bosco").each(function() {
+    
+    download_word = $("<font></font>");
+        download_word.html("Download");
+        bosco_word = $("<font>BOSCO</font>");
+        download_word.addClass('download-word-blue')
+        $(this).append(download_word);
+        $(this).append(" ");
+        $(this).append(bosco_word);
+        $(this).width(300);
+    
+})
 
