@@ -26,7 +26,7 @@ jQuery(document).ready(function($) {
             $(this).append(download_word);
             $(this).append(" ");
             $(this).append(bosco_word);
-            $(this).width(300);
+            //$(this).width(200);
             $(this).attr('href', 'http://bosco.opensciencegrid.org/download/');
             
     
