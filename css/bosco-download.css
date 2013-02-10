@@ -50,12 +50,27 @@ text-decoration: none;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 
-.download-word-blue {
+.download-button-text {
+    font-size: 10px;
     color: white;
+}
+
+.download-word-blue {
     text-shadow:
         -1px -1px 0 #000,
         1px -1px 0 #000,
         -1px 1px 0 #000,
-        1px 1px 0 #000;  
+        1px 1px 0 #000;
+        
 }
+
+.download-word-orange {
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+        
+}
+
 

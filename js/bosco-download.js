@@ -20,13 +20,16 @@ jQuery(document).ready(function($) {
     
         download_word = $("<font></font>");
             download_word.html("Download");
+            
             bosco_word = $("<font>BOSCO</font>");
             download_word.addClass('download-word-blue');
             $(this).append(download_word);
             $(this).append(" ");
             $(this).append(bosco_word);
             $(this).width(300);
-            $(this).attr('href', 'http://bosco.opensciencegrid.org/download/')
+            $(this).attr('href', 'http://bosco.opensciencegrid.org/download/');
+            $(this).addClass('download-button-text');
+            
     
     });
     
