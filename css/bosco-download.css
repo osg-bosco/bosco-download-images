@@ -59,6 +59,15 @@ text-decoration: none;
         1px 1px 0 #0088cc;
 }
 
+.bosco-word-blue {
+    font-size: 35px;
+    text-shadow:
+        -2px -2px 0 #0088cc,
+        2px -2px 0 #0088cc,
+        -2px 2px 0 #0088cc,
+        2px 2px 0 #0088cc;
+}
+
 .download-word-orange {
     text-shadow:
         -1px -1px 0 #000,

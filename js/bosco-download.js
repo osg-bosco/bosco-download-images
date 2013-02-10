@@ -19,9 +19,14 @@ jQuery(document).ready(function($) {
     $(".btn-bosco").each(function() {
     
         download_word = $("<font></font>");
-            download_word.html("Download BOSCO");
+            download_word.html("Download");
+            bosco_word = $("<font></font>")
+            bosco_word.html("BOSCO");
             download_word.addClass('download-word-blue');
+            bosco_word.addClass("bosco-word-blue");
             $(this).append(download_word);
+            $(this).append(" ");
+            $(this).append(bosco_word);
             $(this).attr('href', 'http://bosco.opensciencegrid.org/download/');
             
     
